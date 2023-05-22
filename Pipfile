@@ -12,6 +12,11 @@ contractions = "*"
 matplotlib = "*"
 seaborn = "*"
 num2words = "*"
+torch = "*"
+torchvision = "*"
+tqdm = "*"
+gensim = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"

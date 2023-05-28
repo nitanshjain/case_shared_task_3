@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-numpy = "*"
 nltk = "*"
 scikit-learn = "*"
 contractions = "*"
@@ -17,6 +16,8 @@ torchvision = "*"
 tqdm = "*"
 gensim = "*"
 xgboost = "*"
+tensorflow = "*"
+numpy = "==1.24.1"
 
 [dev-packages]
 ipykernel = "*"

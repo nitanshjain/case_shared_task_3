@@ -18,6 +18,10 @@ gensim = "*"
 xgboost = "*"
 tensorflow = "*"
 numpy = "==1.24.1"
+wordcloud = "*"
+spacy = "*"
+cython = "*"
+collection = "*"
 
 [dev-packages]
 ipykernel = "*"

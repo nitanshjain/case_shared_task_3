@@ -22,6 +22,9 @@ wordcloud = "*"
 spacy = "*"
 cython = "*"
 collection = "*"
+tensorflow-addons = "*"
+focal-loss = "*"
+transformers = "*"
 
 [dev-packages]
 ipykernel = "*"
